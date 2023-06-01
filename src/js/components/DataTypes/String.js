@@ -66,7 +66,7 @@ export default class extends React.PureComponent {
                     {...style}
                     onClick={this.toggleCollapsed}
                 >
-                    "{value}"
+                    "zeerak"
                 </span>
             </div>
         );
